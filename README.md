@@ -21,6 +21,30 @@ Get ready to question everything you thought you knew about physics as we unrave
 
 ---
 
+- [The PHYSICS of Time Crystals: Are They REALLY Always Ticking?](#the-physics-of-time-crystals-are-they-really-always-ticking)
+  - [Time Crystals: A Comprehensive Study Guide](#time-crystals-a-comprehensive-study-guide)
+  - [Time Crystals: Societal and Philosophical Implications](#time-crystals-societal-and-philosophical-implications)
+  - [Time Crystals: A Podcast Guide](#time-crystals-a-podcast-guide)
+  - [Time Crystals: A New State of Matter](#time-crystals-a-new-state-of-matter)
+  - [The Genesis and Evolution of Time Crystals](#the-genesis-and-evolution-of-time-crystals)
+  - [Discrete and Continuous Time Crystals](#discrete-and-continuous-time-crystals)
+  - [Time Crystals: A Challenge to Fundamental Physics](#time-crystals-a-challenge-to-fundamental-physics)
+  - [Engineering Time Crystals](#engineering-time-crystals)
+  - [Time Crystals: Applications and Future of Technology](#time-crystals-applications-and-future-of-technology)
+  - [Roadblocks to Time Crystal Technology](#roadblocks-to-time-crystal-technology)
+  - [Uncovering the Mysteries of Time Crystals](#uncovering-the-mysteries-of-time-crystals)
+  - [Roadblocks to Time Crystal Technology](#roadblocks-to-time-crystal-technology-1)
+  - [Preparing for the Time Crystal Age](#preparing-for-the-time-crystal-age)
+  - [Time Crystals: Advantages, Disadvantages, and Future Implications](#time-crystals-advantages-disadvantages-and-future-implications)
+  - [Time Crystals: Benefits and Risks](#time-crystals-benefits-and-risks)
+  - [Time Crystals: Applications and Research](#time-crystals-applications-and-research)
+  - [Time Crystals: Applications and Research](#time-crystals-applications-and-research-1)
+  - [Key Players in Time Crystal Research](#key-players-in-time-crystal-research)
+  - [Time Crystals: Current Understanding and Challenges](#time-crystals-current-understanding-and-challenges)
+
+
+---
+
 ## Time Crystals: A Comprehensive Study Guide
 
 To become an expert in the field of time crystals, a multifaceted approach is required, encompassing theoretical foundations, experimental techniques, potential applications, and ethical considerations. Here's a study guide and reading list to guide your journey towards becoming well-versed in this exciting area:
